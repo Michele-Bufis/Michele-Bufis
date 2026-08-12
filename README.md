@@ -36,7 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
   <img width="12" />
-  <img width="455" height="548" alt="Image" src="https://github.com/user-attachments/assets/31466196-b539-41ca-a612-5ee1494bf80e" />
+  <img src="https://github.com/user-attachments/assets/01b017fa-854c-4211-90bf-75f95ca73de6" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
   <img width="12" />
