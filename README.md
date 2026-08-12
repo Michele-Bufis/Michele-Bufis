@@ -36,6 +36,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
   <img src="https://github.com/user-attachments/assets/f3f6717d-1c9c-4de5-a65d-1018d7535635" height="40" alt="microchip studio avr logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
@@ -43,6 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/kicad/314CB6" height="40" alt="kicad logo" />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/cd0f6e3e-4374-4495-95fd-ac0254696714" height="40" alt="3d slicer logo" />
 </div>
 
 ### 🎨 CAD, Design & Strumenti
@@ -51,15 +57,9 @@
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/d99f59ea-2ba3-450d-a187-9a6056ae7798" height="40" alt="fusion360 logo" />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/cd0f6e3e-4374-4495-95fd-ac0254696714" height="40" alt="3d slicer logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/diagramsdotnet/F08705" height="40" alt="drawio logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
 
 ###
