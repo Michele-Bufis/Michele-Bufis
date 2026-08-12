@@ -36,7 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/01b017fa-854c-4211-90bf-75f95ca73de6" />
+  <img src="https://github.com/user-attachments/assets/f3f6717d-1c9c-4de5-a65d-1018d7535635" height="40" alt="microchip studio avr logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
   <img width="12" />
@@ -49,9 +49,9 @@
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" height="40" alt="fusion360 logo" />
+  <img src="https://github.com/user-attachments/assets/d99f59ea-2ba3-450d-a187-9a6056ae7798" height="40" alt="fusion360 logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/3D_Slicer-00529B?style=for-the-badge&logoColor=white" height="40" alt="3d slicer logo" />
+  <img src="https://github.com/user-attachments/assets/e7681444-e189-499b-9fc5-4401e2406eac" height="40" alt="3d slicer logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />
