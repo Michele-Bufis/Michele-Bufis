@@ -43,7 +43,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/f3f6717d-1c9c-4de5-a65d-1018d7535635" height="40" alt="microchip studio avr logo" />
+  <img src="https://github.com/user-attachments/assets/e0292b42-1f78-444d-b546-e3ceb460025d" height="40" alt="microchip studio avr logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
   <img width="12" />
