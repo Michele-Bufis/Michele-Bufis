@@ -7,13 +7,9 @@
 
 ---</p>
 
-###
-
-<img height="100" align="right" alt="Image" src="https://github.com/user-attachments/assets/3313985e-a4da-4d3c-ad00-7facd0a3224d" />
-
-###
 
 <h3 data-importer="text" align="center">Info and contacts:</h3>
+<h6 data-importer="text" align="center">michelebufis2002@gmail.com</h6>
 
 ###
 
