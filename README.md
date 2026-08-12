@@ -54,7 +54,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/autodesk/0696D7" height="40" alt="fusion360 logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/3D_Slicer-00529B?style=for-the-badge" height="40" alt="3d slicer badge" />
+  <img src="https://images.seeklogo.com/logo-png/32/1/3d-slicer-vertical-logo-png_seeklogo-326211.png" height="40" alt="3d slicer logo" />
 </div>
 
 ### 🎨 Design & Strumenti
