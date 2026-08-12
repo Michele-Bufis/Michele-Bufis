@@ -15,7 +15,7 @@
 ###
 
 <div data-importer="socials" align="right">
-  <a href="www.linkedin.com/in/michele-pasquale-bufis-7362242a0" target="_blank">
+  <a href="https://www.linkedin.com/in/michele-pasquale-bufis-7362242a0" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
   </a>
 </div>
@@ -37,7 +37,7 @@
 
 ### ⚙️ Hardware & Embedded
 <div data-importer="techs" align="left">
-  <img src="https://img.shields.io/badge/AVR-00AEEF?style=for-the-badge" height="40" alt="avr badge" />
+  <img src="https://www.microchip.com/en-us/tools-resources/develop/microchip-studio/_jcr_content/root/responsivegrid/container/isolatedimage_copy_1383207527/image.coreimg.png/1784729457004/mchp-studio-logo.png" height="40" alt="microchip studio avr logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
   <img width="12" />
@@ -52,9 +52,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/autodesk/0696D7" height="40" alt="fusion360 logo" />
+  <img src="https://play-lh.googleusercontent.com/lkdZJWpFQL7k5GDXYMk0KNnFSkbEQ3fN1AuFTINEGbrmUarxCSYTJEHwep_aL7KlqanohDqkuib5pYpA06g9Og=w240-h480-rw" height="40" alt="fusion360 logo" />
   <img width="12" />
-  <img src="https://images.seeklogo.com/logo-png/32/1/3d-slicer-vertical-logo-png_seeklogo-326211.png" height="40" alt="3d slicer logo" />
+  <img src="https://us1.discourse-cdn.com/flex002/uploads/slicer/original/3X/a/2/a2821f467fa3b013dfa3d1e72f82cdb7932f74bb.png" height="40" alt="3d slicer logo" />
 </div>
 
 ### 🎨 Design & Strumenti
