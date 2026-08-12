@@ -6,7 +6,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="100" src=""  />
+<img height="100" align="right" alt="Image" src="https://github.com/user-attachments/assets/3313985e-a4da-4d3c-ad00-7facd0a3224d" />
 
 ###
 
