@@ -26,7 +26,7 @@
 
 ###
 
-### 💻 Programmazione, Hardware & Ingegneria
+### 💻 Programming, Hardware & Engineering
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
   <img width="12" />
@@ -51,7 +51,7 @@
   <img src="https://github.com/user-attachments/assets/cd0f6e3e-4374-4495-95fd-ac0254696714" height="40" alt="3d slicer logo" />
 </div>
 
-### 🎨 CAD, Design & Strumenti
+### 🎨 CAD, Design & Tools
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo" />
   <img width="12" />
