@@ -36,7 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microchiptechnology/E42528" height="40" alt="microchip avr logo" />
+  <img src="[https://cdn.simpleicons.org/microchiptechnology/E42528" height="40" alt="microchip avr logo](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio/_jcr_content/root/responsivegrid/container/isolatedimage_copy_1383207527/image.coreimg.png/1784729457004/mchp-studio-logo.png)" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
   <img width="12" />
