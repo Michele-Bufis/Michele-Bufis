@@ -2,7 +2,10 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a Biomedical Engineering Master's student at PoliTo<br><br>Welcome to my GitHub profile! My work lives at the exact intersection of: hardware, software and the clinical world. <br><br>I am passionate about building programmable medical devices and extracting meaningful data through physiological signal processing. My academic journey and projects explore the frontiers of telemedicine, medical imaging, and the application of AI in healthcare. Recently, I expanded my perspective through an Erasmus+ experience at Vilnius Tech, focusing on custom electronics design and signal analysis in a multicultural environment.</p>
+<p data-importer="text" align="left">I'm a Biomedical Engineering Master's student at PoliTo<br><br>Welcome to my GitHub profile! My work lives at the exact intersection of: hardware, software and the clinical world. <br><br>I am passionate about building programmable medical devices and extracting meaningful data through physiological signal processing. My academic journey and projects explore the frontiers of telemedicine, medical imaging, and the application of AI in healthcare. Recently, I expanded my perspective through an Erasmus+ experience at Vilnius Tech, focusing on custom electronics design and signal analysis in a multicultural environment.
+
+
+---</p>
 
 ###
 
@@ -10,13 +13,13 @@
 
 ###
 
-<h5 data-importer="text" align="left">Info and contacts:</h5>
+<h3 data-importer="text" align="center">Info and contacts:</h3>
 
 ###
 
 <div data-importer="socials" align="right">
   <a href="https://www.linkedin.com/in/michele-pasquale-bufis-7362242a0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="50" alt="linkedin logo"  />
   </a>
 </div>
 
